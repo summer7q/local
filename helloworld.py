@@ -64,6 +64,8 @@ def printinfo(arg1, *vartuple):
     return arg1, vartuple
 
 
+
+
 # 调用printinfo 函数
 print printinfo(10)
 print printinfo(70, 60, 50)
